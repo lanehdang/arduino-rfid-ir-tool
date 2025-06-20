@@ -30,4 +30,4 @@ void processRFID() {
 
   delay(500);  // simple debounce
   rfid.PICC_HaltA();
-}
+} 
